@@ -1,1 +1,1 @@
-# Analise_de_Covid_de_SP
+# ANALISE_DE_COVID_DE_SÃO_PAULO
