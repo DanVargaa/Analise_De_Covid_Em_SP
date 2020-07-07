@@ -8,7 +8,7 @@ Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
 Fernando Masanori
 
 # Membros da Equipe
-Daniel Vargas Ribeiro e Levi Motta
+Daniel Vargas Ribeiro e Levi Alberto Motta Santos
 
 # Resumo
 A nova gripe que recentemente se tornou uma pandemia conhecida como Covid-19, tem trazido muitos problemas para a sociedade, com isso tem se tornado necessario atualizar diariamente os dados sobre, e para isso realizamos uma analise sobre o estado de São Paulo.
