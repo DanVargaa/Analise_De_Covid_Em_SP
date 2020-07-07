@@ -1,4 +1,3 @@
-# Tema
 # COVID-VALE-DO-PARAIBA-E-REGIAO
 # Covid-19 São Paulo
 
