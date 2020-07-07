@@ -11,7 +11,7 @@ Fernando Masanori
 Daniel Vargas Ribeiro e Levi Motta
 
 # Resumo
-A nova gripe que recentemente se tornou uma pandemia conhecida como Covid-19, tem trazido muitos problemas para a sociedade, com isso tem se tornado necessario atualizar diariamente os dados sobre, e para isso realizamos uma analise sobre o estado de São Paulo
+A nova gripe que recentemente se tornou uma pandemia conhecida como Covid-19, tem trazido muitos problemas para a sociedade, com isso tem se tornado necessario atualizar diariamente os dados sobre, e para isso realizamos uma analise sobre o estado de São Paulo.
 
 # Fonte dos dados
 https://covid.saude.gov.br
@@ -23,7 +23,7 @@ Matplotlib
 Jupyter Notebook
 
 # Conclusão
-Podemos ver com está Analise de Dados, São Paulo capital tem sido a que mais tem crescido e até o momento não tem tido diminuição nos casos, mas os Obitos novos tem diminuido
+Podemos ver com está Analise de Dados, que em São Paulo capital tem sido a  área que mais tem crescido os números de casos e óbitos e até o momento não tem tido diminuição nos casos, mas podemos ver que apesar de tudo os óbitos novos tem tido uma diminuição nas ultimas semanas.
 
 # Instalação
 1. Baixar e instalar o Python 3.8.x pelo [site oficial](https://www.python.org/downloads/)
